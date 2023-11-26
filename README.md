@@ -1,17 +1,40 @@
-<h1 align="center">Hi 👋, I'm Orlando</h1>
-<h3 align="center">A Excel nerd from switzerland</h3>
+# 👋 Hi, I'm Orli!
 
-- 🌱 I’m currently learning **VBA, VB.NET and python**
+Welcome to my GitHub! I'm an electric engineer and contractor from Lucerne, Switzerland, with a passion for coding and digital construction. When I'm not working, you can find me exploring the city with my camera or jamming with my band, Vikinger.
 
-- 💬 Ask me about **VBA and Excel**
+## 🌟 About Me
 
-- 📫 How to reach me **0rl0skunk@gmail.com**
+- 🛠️ Working as an Electric Engineer & Contractor.
+- 🎓 Starting my journey in Digital Construction at HSLU in Horw in February 2024.
+- 🎸 Playing in a band named Vikinger.
+- 📸 Passionate about photography, especially capturing the beauty of Lucerne.
+- 🌐 Coding in VBA, VB, and VB.NET.
+- 💬 Happy to chat about anything from coding to feelings, especially love!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+Here you'll find a mix of professional and personal projects, showcasing my journey in engineering, coding, and beyond.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0rl0skunk&show_icons=true&locale=en" alt="0rl0skunk" /></p>
+## 📚 Continuous Learning
+
+I believe in lifelong learning and am currently honing my skills in programming. Stay tuned for more updates on my coding journey!
+
+## 📸 Snapshots from Lucerne
+
+Occasionally, I'll be sharing some of my favorite photographs of Lucerne and its surroundings - a blend of nature, architecture, and the vibrant city life.
+
+## 🎵 Vikinger Updates
+
+Watch out for updates on my band's adventures and maybe even some music-related projects!
+
+## 📫 Get in Touch
+
+Feel free to reach out for collaborations, music chats, or just a good conversation about life and tech.
+
+- 📧 Email: [YourEmail@example.com]
+- 📸 Instagram: [@YourInstagramHandle]
+- 🎶 Band Page: [VikingerMusicLink]
+
+---
+
+Thanks for stopping by, and have a fantastic day!
